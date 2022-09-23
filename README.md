@@ -1,6 +1,6 @@
 # scrapyLL
 
-Webscarper mit einem headless chromium browser für golgende Onlineshops:
+Webscarper mit einem headless chromium Browser für golgende Onlineshops:
 brack.ch
 manor.ch
 mueller.de
